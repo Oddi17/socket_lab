@@ -19,4 +19,8 @@ sudo docker run  -ti --rm --name lab1_docker lab1
 ```bash
 sudo docker exec -ti lab1_docker python3 ./myclient.py
 ```
-https://github.com/Oddi17/socket_lab/blob/main/screens/likework1.png
+
+<p align="center">
+  <img src="https://github.com/Oddi17/socket_lab/blob/main/screens/likework1.png" width="600px" height="400px"/></p>
+<p align="center">
+<img src="https://github.com/Oddi17/socket_lab/blob/main/screens/likework2.png" width="600px" height="400px"/></p>
